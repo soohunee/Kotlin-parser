@@ -1,1 +1,1 @@
-# •	Kotlin language syntax parser
+#	Kotlin language syntax parser
